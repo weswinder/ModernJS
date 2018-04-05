@@ -19,3 +19,4 @@ Resources for Building Modern JS Applications
 
 ## Learning
 * [Codecademy](https://www.codecademy.com)
+* [JavaScript.info](https://javascript.info)
