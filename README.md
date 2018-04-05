@@ -1,5 +1,5 @@
 # ModernJS
-This is a curated list of JavaScript technologies for building modern applications.
+This is a curated list of resources for building modern JavaScript applications.
 
 ## Server
 * [Node.js](https://github.com/nodejs/node)
