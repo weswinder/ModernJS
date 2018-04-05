@@ -20,6 +20,7 @@ Resources for Building Modern JS Applications
 
 ## Style Guides
 * [Airbnb](https://github.com/airbnb/javascript)
+* [Idiomatic](https://github.com/rwaldron/idiomatic.js)
 
 ## Learning
 * [Codecademy](https://www.codecademy.com)
