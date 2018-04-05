@@ -22,6 +22,8 @@ This is a curated list of resources for building modern JavaScript applications.
 * [npm](https://github.com/npm/npm)
 * [Prettier](https://github.com/prettier/prettier)
   * Opinionated code formatter.
+* [Electron](https://github.com/electron/electron)
+  * Build cross platform desktop apps with JavaScript, HTML, and CSS.
 
 ## Style Guides
 * [Airbnb](https://github.com/airbnb/javascript)
