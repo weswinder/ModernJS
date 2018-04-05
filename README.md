@@ -3,7 +3,9 @@ Resources for Building Modern JS Applications
 
 ## Server
 * [Node.js](https://github.com/nodejs/node)
+  * JavaScript runtime built on Chrome's V8 JavaScript engine.
 * [Express](https://github.com/expressjs/express)
+  * Fast, unopinionated, minimalist web framework for node.
 
 ## Data
 * [MongoDB](https://github.com/mongodb/mongo)
@@ -19,7 +21,7 @@ Resources for Building Modern JS Applications
   * Compiler for writing next generation JavaScript.
 * [npm](https://github.com/npm/npm)
 * [Prettier](https://github.com/prettier/prettier)
-  * Opinionated code formatter
+  * Opinionated code formatter.
 
 ## Style Guides
 * [Airbnb](https://github.com/airbnb/javascript)
