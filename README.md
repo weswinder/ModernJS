@@ -16,3 +16,6 @@ Resources for Building Modern JS Applications
 
 ## Tools
 * [Babel](https://github.com/babel/babel)
+
+## Learning
+* [Codecademy](https://www.codecademy.com)
