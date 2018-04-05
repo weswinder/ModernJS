@@ -15,6 +15,7 @@ This is a curated list of resources for building modern JavaScript applications.
 ## Client
 * [Angular](https://github.com/angular/angular)
 * [React](https://github.com/facebook/react)
+* [Vue](https://github.com/vuejs/vue)
 
 ## Tools
 * [Babel](https://github.com/babel/babel)
