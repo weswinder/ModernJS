@@ -16,7 +16,10 @@ Resources for Building Modern JS Applications
 
 ## Tools
 * [Babel](https://github.com/babel/babel)
+  * Compiler for writing next generation JavaScript.
 * [npm](https://github.com/npm/npm)
+* [Prettier](https://github.com/prettier/prettier)
+  * Opinionated code formatter
 
 ## Style Guides
 * [Airbnb](https://github.com/airbnb/javascript)
