@@ -19,9 +19,9 @@ This is a curated list of resources for building modern JavaScript applications.
 
 ## Mobile
 * [React Native (React)](https://github.com/facebook/react-native)
- * A framework for building native apps with React.
+  * A framework for building native apps with React.
 * [Weex (Vue)](https://github.com/apache/incubator-weex)
- * A framework for building Mobile cross-platform UI.
+  * A framework for building Mobile cross-platform UI.
 
 ## Tools
 * [Babel](https://github.com/babel/babel)
